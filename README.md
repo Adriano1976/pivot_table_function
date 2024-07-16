@@ -1,5 +1,7 @@
 # <strong><font color=orange> Estudo de caso `Cardio Good Fitness` - Estatísticas Descritivas </font></strong>
 
+<center><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*7JSzjLf9p0KPWyNg.jpg"></center><br>
+
 A equipe de pesquisa de mercado da ***AdRight*** foi incumbida de `identificar o perfil típico dos clientes para cada modelo de esteira` oferecido pela **CardioGood Fitness**. Para isso, decidiu investigar possíveis diferenças nas características dos clientes entre as diversas linhas de produtos. A fim de obter dados relevantes, a equipe coletou informações sobre indivíduos que adquiriram esteiras em lojas da CardioGood Fitness nos últimos três meses. Esses dados foram compilados e armazenados no arquivo CardioGoodFitness.csv.
 
 ### <strong> A equipe identifica as seguintes variáveis ​​do cliente para estudar: </strong>
